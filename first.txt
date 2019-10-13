@@ -7,3 +7,4 @@ changing in file for testing
 
 
 Date: 13/10/2019 changes
+smartgit test
