@@ -2,3 +2,6 @@ second dot tee ex tee is file of thirddemo folder
 
 
 Day Sunday changes
+
+
+demo mere commit using terminal master branch - Testing
