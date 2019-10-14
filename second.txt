@@ -5,3 +5,6 @@ Day Sunday changes
 
 
 demo mere commit using terminal master branch - Testing
+
+
+demo merge commit using Smartgit - testing
