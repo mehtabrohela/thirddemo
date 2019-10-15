@@ -1,1 +1,5 @@
 fifth file for terminal test - rebase
+
+
+
+fifth-Rebase testing through smartgit - 15/10/2019
