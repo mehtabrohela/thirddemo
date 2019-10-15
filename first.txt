@@ -15,3 +15,6 @@ Demo merge commit using terminal testing
 
 
 Demo Rebase testing through terminal - 15/10/2019
+
+
+first-Rebase testing through smartgit - 15/10/2019
