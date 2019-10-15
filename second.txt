@@ -8,3 +8,6 @@ demo mere commit using terminal master branch - Testing
 
 
 demo merge commit using Smartgit - testing
+
+
+Rebase testing through terminal - 15/10/2019
